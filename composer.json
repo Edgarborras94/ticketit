@@ -6,7 +6,7 @@
     "require": {
         "laravel/framework": "^7.0",
         "laravelcollective/html": "^6.0",
-        "illuminate/support": "^5.1|^6.0",
+        "illuminate/support": "^6.0",
         "yajra/laravel-datatables-oracle": "^9.4",
         "jenssegers/date": "^4.0",
         "mews/purifier": "^3.2",
